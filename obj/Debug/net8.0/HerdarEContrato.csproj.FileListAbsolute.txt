@@ -1,0 +1,14 @@
+C:\Users\lonez\Desktop\Garoto de programa\HerdarEContrato\bin\Debug\net8.0\HerdarEContrato.exe
+C:\Users\lonez\Desktop\Garoto de programa\HerdarEContrato\bin\Debug\net8.0\HerdarEContrato.deps.json
+C:\Users\lonez\Desktop\Garoto de programa\HerdarEContrato\bin\Debug\net8.0\HerdarEContrato.runtimeconfig.json
+C:\Users\lonez\Desktop\Garoto de programa\HerdarEContrato\bin\Debug\net8.0\HerdarEContrato.dll
+C:\Users\lonez\Desktop\Garoto de programa\HerdarEContrato\bin\Debug\net8.0\HerdarEContrato.pdb
+C:\Users\lonez\Desktop\Garoto de programa\HerdarEContrato\obj\Debug\net8.0\HerdarEContrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonez\Desktop\Garoto de programa\HerdarEContrato\obj\Debug\net8.0\HerdarEContrato.AssemblyInfoInputs.cache
+C:\Users\lonez\Desktop\Garoto de programa\HerdarEContrato\obj\Debug\net8.0\HerdarEContrato.AssemblyInfo.cs
+C:\Users\lonez\Desktop\Garoto de programa\HerdarEContrato\obj\Debug\net8.0\HerdarEContrato.csproj.CoreCompileInputs.cache
+C:\Users\lonez\Desktop\Garoto de programa\HerdarEContrato\obj\Debug\net8.0\HerdarEContrato.dll
+C:\Users\lonez\Desktop\Garoto de programa\HerdarEContrato\obj\Debug\net8.0\refint\HerdarEContrato.dll
+C:\Users\lonez\Desktop\Garoto de programa\HerdarEContrato\obj\Debug\net8.0\HerdarEContrato.pdb
+C:\Users\lonez\Desktop\Garoto de programa\HerdarEContrato\obj\Debug\net8.0\HerdarEContrato.genruntimeconfig.cache
+C:\Users\lonez\Desktop\Garoto de programa\HerdarEContrato\obj\Debug\net8.0\ref\HerdarEContrato.dll

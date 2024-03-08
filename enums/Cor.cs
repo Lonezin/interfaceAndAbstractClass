@@ -1,6 +1,6 @@
 namespace HerdarEContrato.enums
 {
-    public enum Color
+    public enum Cor
     {
         Black,
         White

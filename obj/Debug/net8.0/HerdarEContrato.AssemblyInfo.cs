@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HerdarEContrato")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eae6ec94d0e411028c2af441be65c73074084ae3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27a127999392b4758755ec84f8976d65cd5f4b11")]
 [assembly: System.Reflection.AssemblyProductAttribute("HerdarEContrato")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HerdarEContrato")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

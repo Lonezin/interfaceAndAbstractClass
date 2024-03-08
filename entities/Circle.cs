@@ -2,7 +2,7 @@ using System.Globalization;
 
 namespace HerdarEContrato.entities
 {
-    public class Circle : Shape
+    public class Circle : AbstractShape
     {
         public double Radius { get; set;}
         public override double Area()
@@ -11,7 +11,7 @@ namespace HerdarEContrato.entities
         }
         public override string ToString()
         {
-            return $"Circle color = {Color}\n radius = {Radius.ToString("F2", CultureInfo.InvariantCulture)}\n" +
+            return $"Circle color = {Color}\nRadius = {Radius.ToString("F2", CultureInfo.InvariantCulture)}\n" +
             $"Area = {Area().ToString("F2", CultureInfo.InvariantCulture)}";;
         }
     }
